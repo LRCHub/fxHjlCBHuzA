@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Bye Bye Bye",
+  "base_artist": "*NSYNC",
+  "createdAt": "2025-12-17T10:19:14.672356Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bye Bye Bye",
+      "artist": "School of Seven Bells",
+      "has_synced": false,
+      "path": "select/01_Bye_Bye_Bye_School_of_Seven_Bells.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bye Bye Bye",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Tara Louise",
+      "has_synced": true,
+      "path": "select/02_Bye_Bye_Bye_Scott_Bradlee's_Postmodern_Jukebox_feat._Tara_Louise.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bye Bye Bye - 2016 North American Cast Version",
+      "artist": "Scott Bradlee & Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/03_Bye_Bye_Bye_-_2016_North_American_Cast_Version_Scott_Bradlee_&_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bye Bye Bye (2016 North American Cast Version)",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/04_Bye_Bye_Bye_(2016_North_American_Cast_Version)_Scott_Bradlee's_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bye Bye Bye - Live",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Ariana Savalas, Sara Niemietz & Aubrey Logan",
+      "has_synced": false,
+      "path": "select/05_Bye_Bye_Bye_-_Live_Scott_Bradlee's_Postmodern_Jukebox_feat._Ariana_Savalas,_Sara_Niemietz_&_Aubrey_.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bye, Bye, Bye",
+      "artist": "Jellyfish",
+      "has_synced": true,
+      "path": "select/06_Bye,_Bye,_Bye_Jellyfish.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bye Bye Bye",
+      "artist": "Jellyfish",
+      "has_synced": true,
+      "path": "select/07_Bye_Bye_Bye_Jellyfish.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bye-Bye-Bye",
+      "artist": "POLYSICS",
+      "has_synced": false,
+      "path": "select/08_Bye-Bye-Bye_POLYSICS.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bye Bye Bye (Teddy Riley remix)",
+      "artist": "*NSYNC",
+      "has_synced": true,
+      "path": "select/09_Bye_Bye_Bye_(Teddy_Riley_remix)_NSYNC.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bye Bye Bye",
+      "artist": "*NSYNC",
+      "has_synced": true,
+      "path": "select/10_Bye_Bye_Bye_NSYNC.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bye Bye Bye",
+      "artist": "*NSYNC",
+      "has_synced": true,
+      "path": "select/11_Bye_Bye_Bye_NSYNC.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bye, Bye, Bye",
+      "artist": "Further Seems Forever",
+      "has_synced": true,
+      "path": "select/12_Bye,_Bye,_Bye_Further_Seems_Forever.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bye Bye Bye",
+      "artist": "Further Seems Forever",
+      "has_synced": true,
+      "path": "select/13_Bye_Bye_Bye_Further_Seems_Forever.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bye Bye Bye",
+      "artist": "'N Sync",
+      "has_synced": true,
+      "path": "select/14_Bye_Bye_Bye_'N_Sync.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bye Bye Bye",
+      "artist": "*NSYNC",
+      "has_synced": true,
+      "path": "select/15_Bye_Bye_Bye_NSYNC.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bye Bye Bye",
+      "artist": "'n Sync",
+      "has_synced": true,
+      "path": "select/16_Bye_Bye_Bye_'n_Sync.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "N-Sync / Bye Bye Bye",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/17_N-Sync___Bye_Bye_Bye_Various.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Bye bye bye",
+      "artist": "N Sync",
+      "has_synced": true,
+      "path": "select/18_Bye_bye_bye_N_Sync.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bye Bye Bye",
+      "artist": "*NSYNC",
+      "has_synced": false,
+      "path": "select/pl_01_Bye_Bye_Bye_NSYNC.txt"
+    }
+  ]
+}
